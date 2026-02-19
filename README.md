@@ -1,2 +1,6 @@
-# Complex-Form
-Complex HTML registration Form with personal info,address,DOB,gender,country,and comments fields.
+# Complex Registration Form
+
+Complex HTML form with multiple input fields such as personal details, address, date of birth, gender, country selection, and comments.
+
+## Tech
+HTML
